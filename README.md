@@ -1,4 +1,4 @@
-# Zip-cracker-script
+# Zip-cracker
 A zip, rar &amp; .7z password-protected bypass script tool. 
 
 - NOTE:- ```Using large data wordlists like rockyou.txt may take longer, and you may want to break down your data to less large wordlists```
